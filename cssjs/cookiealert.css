@@ -1,0 +1,48 @@
+/* CSS Cookie Alert Wordpress Plugin */
+
+
+.cookie-alert-wrap a, .cookie-alert-wrap a:link, .cookie-alert-wrap a:visited {color: #ddd;text-decoration: none;}
+.cookie-alert-wrap a:hover {color: #999;}
+
+.cookie-alert-wrap h1, .cookie-alert-wrap h2, .cookie-alert-wrap h3, .cookie-alert-wrap h4, .cookie-alert-wrap h5, .cookie-alert-wrap h6 {margin: 0.5em; color: #DDCB75;font-family: "Verdana",Arial,sans-serif;}
+
+
+.cookie-alert-wrap {
+
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left:0;
+    background: rgba(0,0,0,0.6);
+    padding: 1rem;
+    text-align: center;
+    color: #fff;
+    font-family: 'Verdana', Arial, sans-serif;
+    border-top: solid 1px #fff;
+    z-index: 100;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    
+}
+.cookie-alert-wrap .cookie-alert-text {color: #fff;text-align: center;}
+
+.cookie-alert-wrap a.cookie-alert-link {
+
+    color: powderblue;
+    display: inline-block;
+
+}
+.cookie-alert-wrap a.cookie-alert-link:hover {color: #61A1CC;}
+
+
+.cookie-alert-wrap a.cookie-alert-chiudi {
+    display: inline-block;
+    background: /* #F53E58 */ #5EB26F; 
+    line-height: 26px;
+    font-size: 1.2rem;
+    padding: 8px 15px;
+    color: white;
+    font-family: 'Verdana', Arial, sans-serif;
+    margin-top: 0.5rem; 
+}
+.cookie-alert-wrap a.cookie-alert-chiudi:hover {color: #427D4E;}

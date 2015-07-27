@@ -30,8 +30,9 @@ First Option
 
 Second option
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Download cookie-alert.zip from Wordpress repository and unzip it 
+2. Upload `cookie-alert` folder to the `/wp-content/plugins/` directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 
 
